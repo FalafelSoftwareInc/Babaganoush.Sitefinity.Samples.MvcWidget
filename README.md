@@ -1,4 +1,4 @@
-Babaganoush.Sitefinity.Samples.MvcWidget
-========================================
+Babaganoush for Sitefinity: MVC Widget Sample
+=============================================
 
-Babaganoush Sitefinity sample for dynamic type.
+Babaganoush Sample for MVC widget. See tutorial for more information: http://babaganoush.falafel.com/documentation/tutorials/working-with-mvc-widgets
